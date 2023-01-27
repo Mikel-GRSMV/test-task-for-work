@@ -1,0 +1,3 @@
+app:
+  host: http://pastabox.send.ru
+  public_list_size: 10
